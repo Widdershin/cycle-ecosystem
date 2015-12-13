@@ -5,7 +5,7 @@ What are the most popular libraries for Cycle.js?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2796 |
-| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 170 |
+| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 171 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 100 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 99 |
 | [cyclejs/cycle-dom](https://github.com/cyclejs/cycle-dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 73 |

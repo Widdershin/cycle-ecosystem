@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2797 |
+| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2798 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 171 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 101 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 99 |
@@ -36,7 +36,6 @@ What are the most popular libraries for Cycle.js?
 | [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 9 |
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 9 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and Livereload. | 8 |
-| [RGBz/cyclet](https://github.com/RGBz/cyclet) | Simple, immutable, unidirectional data flow for React Native. | 8 |
 | [TylorS/cycle-more](https://github.com/TylorS/cycle-more) | Cycle.js port to Most.js | 8 |
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 8 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 8 |
@@ -46,17 +45,17 @@ What are the most popular libraries for Cycle.js?
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 6 |
 | [TylorS/cycle-router](https://github.com/TylorS/cycle-router) | A router driver for cycle.js | 6 |
 | [TylorS/cycle-local-storage](https://github.com/TylorS/cycle-local-storage) | Simple local storage driver for cycle.js | 6 |
+| [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 6 |
 | [collardeau/kairos](https://github.com/collardeau/kairos) | Cycle.js weather aggregration app | 6 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 6 |
 | [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) | Tetris game implemented in CycleJS | 5 |
 | [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 5 |
 | [bouzuya/cycle-gh-tree](https://github.com/bouzuya/cycle-gh-tree) | A GitHub issue browser in Cycle.js | 5 |
-| [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 5 |
 | [rikukissa/ideas](https://github.com/rikukissa/ideas) | Giving Cycle.js and mori a spin while concepting a new application | 5 |
 | [leoasis/cycle-poc](https://github.com/leoasis/cycle-poc) | Playing with Cyclejs | 4 |
 | [danyx23/cyclejsBMI](https://github.com/danyx23/cyclejsBMI) | A reimplementation of the omniscient omniBMI in cycleJS | 4 |
-| [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 4 |
 | [r7kamura/cycle-history-driver](https://github.com/r7kamura/cycle-history-driver) | A Cycle.js Driver to manage the browser history. | 4 |
+| [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 4 |
 | [TylorS/cycle-more-snabbdom](https://github.com/TylorS/cycle-more-snabbdom) | Snabbdom driver for Cycle-More | 4 |
 | [omgmog/cycle-meta-theme-color](https://github.com/omgmog/cycle-meta-theme-color) |  | 4 |
 

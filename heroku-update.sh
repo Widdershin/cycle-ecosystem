@@ -8,8 +8,8 @@ cp -r ../node_modules .
 
 ./node_modules/babel-cli/bin/babel-node.js update.js
 
-git config user.email "ncwjohnstone@gmail.com"
-git config user.name "Nick Johnstone (heroku auto update)"
+git config user.email "a-cron-job@example.org"
+git config user.name "heroku-update.sh"
 
 git config credential.helper store
 

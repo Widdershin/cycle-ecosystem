@@ -2,6 +2,7 @@ import request from 'request';
 import {Observable} from 'rxjs';
 import fs from 'fs';
 
+const RELEVANCE_THRESHOLD = 0.75;
 const githubSearchQuery = `cycle+OR+cyclejs+language%3AJavaScript+created%3A>2014-11-01+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000`;
 
 function githubApiSearch (query) {
@@ -21,8 +22,13 @@ const requestOptions = {
 
 Observable.bindCallback(request)(requestOptions)
   .map(([error, response]) => JSON.parse(response.body).items)
+  .map(relevance)
   .map(toMarkdown)
   .forEach(updateReadme);
+
+function relevance (searchResults) {
+  return searchResults.filter(result => result.score >= RELEVANCE_THRESHOLD);
+}
 
 function toMarkdown (searchResults) {
   return `

@@ -2,7 +2,7 @@ import request from 'request';
 import {Observable} from 'rxjs';
 import fs from 'fs';
 
-const githubSearchQuery = `cycle+OR+cyclejs+language%3AJavaScript+created%3A>2014-11-01+stars%3A>3&type=Repositories&sort=stars&order=desc`;
+const githubSearchQuery = `cycle+OR+cyclejs+language%3AJavaScript+created%3A>2014-11-01+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000`;
 
 function githubApiSearch (query) {
   return `https://api.github.com/search/repositories?q=${query}`;

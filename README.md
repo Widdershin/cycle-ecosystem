@@ -15,7 +15,7 @@ What are the most popular libraries for Cycle.js?
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 37 |
 | [cyclejs/cycle-history](https://github.com/cyclejs/cycle-history) | Cycle.js URL Driver based on the rackt/history library. | 35 |
 | [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) | A Cycle.js Driver for making HTTP requests | 26 |
-| [Widdershin/cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) | What are the most popular and trending libraries for Cycle.js? (curated by robots and people) | 24 |
+| [Widdershin/cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) | What are the most popular and trending libraries for Cycle.js? (curated by robots and people) | 25 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 22 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 20 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 17 |

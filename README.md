@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2801 |
+| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2802 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 172 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 101 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 99 |
@@ -17,7 +17,7 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) | A Cycle.js Driver for making HTTP requests | 26 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 22 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 20 |
-| [Widdershin/cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) | What are the most popular and trending libraries for Cycle.js? (curated by robots and people) | 19 |
+| [Widdershin/cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) | What are the most popular and trending libraries for Cycle.js? (curated by robots and people) | 20 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 17 |
 | [TylorS/cycle-starter](https://github.com/TylorS/cycle-starter) | Cycle.js starter application | 17 |
 | [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) | Media player written with Cycle.js and Electron. | 16 |

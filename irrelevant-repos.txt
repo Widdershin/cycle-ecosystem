@@ -4,3 +4,4 @@ supnate/react-dom-diff
 valery-barysok/json-cycle
 nervgh/recursive-iterator
 RGBz/cyclet
+Widdershin/cycle-ecosystem

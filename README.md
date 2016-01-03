@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2961 |
+| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 2966 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 180 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 105 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 105 |
@@ -16,7 +16,7 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/cycle-history](https://github.com/cyclejs/cycle-history) | Cycle.js URL Driver based on the rackt/history library. | 39 |
 | [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) | A Cycle.js Driver for making HTTP requests | 27 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 23 |
-| [TylorS/cycle-starter](https://github.com/TylorS/cycle-starter) | Cycle.js starter application | 21 |
+| [TylorS/cycle-starter](https://github.com/TylorS/cycle-starter) | Cycle.js starter application | 22 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 21 |
 | [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) | Media player written with Cycle.js and Electron. | 18 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 17 |

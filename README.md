@@ -4,13 +4,13 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 3029 |
-| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 183 |
+| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 3041 |
+| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 184 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 109 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 107 |
-| [cyclejs/cycle-dom](https://github.com/cyclejs/cycle-dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 85 |
+| [cyclejs/cycle-dom](https://github.com/cyclejs/cycle-dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 86 |
 | [cyclejs/cycle-react-native](https://github.com/cyclejs/cycle-react-native) | A Cycle.js Driver for interacting with React Native | 62 |
-| [cyclejs/cycle-examples](https://github.com/cyclejs/cycle-examples) | A collection of simple Cycle.js examples | 55 |
+| [cyclejs/cycle-examples](https://github.com/cyclejs/cycle-examples) | A collection of simple Cycle.js examples | 56 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 53 |
 | [cyclejs/cycle-history](https://github.com/cyclejs/cycle-history) | Cycle.js URL Driver based on the rackt/history library. | 40 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 40 |
@@ -29,8 +29,8 @@ What are the most popular libraries for Cycle.js?
 | [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 13 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 13 |
 | [eschwartz/cycle-pong](https://github.com/eschwartz/cycle-pong) | Implementation of Pong video game using Cycle.js | 12 |
-| [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) |  | 12 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 12 |
+| [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) |  | 12 |
 | [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) | Utility for testing applications based on CycleJS framework. | 11 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 11 |
 | [justinwoo/cycle-scroll-table](https://github.com/justinwoo/cycle-scroll-table) | a scroll table using cycle.js | 11 |

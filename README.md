@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 3076 |
+| [cyclejs/cycle-core](https://github.com/cyclejs/cycle-core) | A fully reactive JavaScript framework for Human-Computer Interaction | 3091 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 186 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 109 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 109 |
@@ -15,12 +15,12 @@ What are the most popular libraries for Cycle.js?
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 42 |
 | [cyclejs/cycle-history](https://github.com/cyclejs/cycle-history) | Cycle.js URL Driver based on the rackt/history library. | 40 |
 | [cyclejs/cycle-http-driver](https://github.com/cyclejs/cycle-http-driver) | A Cycle.js Driver for making HTTP requests | 28 |
-| [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 26 |
+| [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 27 |
 | [TylorS/cycle-starter](https://github.com/TylorS/cycle-starter) | Cycle.js starter application | 24 |
-| [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 22 |
+| [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 23 |
 | [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) | Media player written with Cycle.js and Electron. | 20 |
+| [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 18 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 17 |
-| [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 17 |
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 16 |
 | [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 16 |
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 16 |
@@ -32,13 +32,14 @@ What are the most popular libraries for Cycle.js?
 | [eschwartz/cycle-pong](https://github.com/eschwartz/cycle-pong) | Implementation of Pong video game using Cycle.js | 12 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) |  | 12 |
 | [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) | Utility for testing applications based on CycleJS framework. | 11 |
+| [TylorS/cycle-router](https://github.com/TylorS/cycle-router) | Cycle.js Router Driver | 11 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 11 |
 | [justinwoo/cycle-scroll-table](https://github.com/justinwoo/cycle-scroll-table) | a scroll table using cycle.js | 11 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 11 |
+| [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 10 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 9 |
 | [TylorS/cycle-more](https://github.com/TylorS/cycle-more) | Cycle.js port to Most.js | 9 |
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 9 |
-| [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 9 |
 | [cyclejs/cycle-storage-driver](https://github.com/cyclejs/cycle-storage-driver) | A Cycle.js Driver for using localStorage and sessionStorage. | 9 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 9 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 9 |
@@ -49,7 +50,6 @@ What are the most popular libraries for Cycle.js?
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 6 |
 | [TylorS/cycle-local-storage](https://github.com/TylorS/cycle-local-storage) | Simple local storage driver for cycle.js | 6 |
 | [ivan-kleshnin/tetris-cyclejs](https://github.com/ivan-kleshnin/tetris-cyclejs) | Tetris game implemented in CycleJS | 5 |
-| [TylorS/cycle-router](https://github.com/TylorS/cycle-router) | Cycle.js Router Driver | 5 |
 | [bouzuya/cycle-gh-tree](https://github.com/bouzuya/cycle-gh-tree) | A GitHub issue browser in Cycle.js | 5 |
 | [rikukissa/ideas](https://github.com/rikukissa/ideas) | Giving Cycle.js and mori a spin while concepting a new application | 5 |
 | [leoasis/cycle-poc](https://github.com/leoasis/cycle-poc) | Playing with Cyclejs | 4 |

@@ -5,3 +5,4 @@ valery-barysok/json-cycle
 nervgh/recursive-iterator
 RGBz/cyclet
 Widdershin/cycle-ecosystem
+andrewcourtice/plug.js

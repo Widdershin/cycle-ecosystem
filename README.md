@@ -7,7 +7,7 @@ What are the most popular libraries for Cycle.js?
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 210 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 145 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 132 |
-| [cyclejs/dom](https://github.com/cyclejs/dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 125 |
+| [cyclejs/dom](https://github.com/cyclejs/dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 126 |
 | [cyclejs/examples](https://github.com/cyclejs/examples) | A collection of simple Cycle.js examples | 115 |
 | [cyclejs/cycle-react-native](https://github.com/cyclejs/cycle-react-native) | A Cycle.js Driver for interacting with React Native | 107 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 73 |
@@ -49,8 +49,8 @@ What are the most popular libraries for Cycle.js?
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 10 |
 | [collardeau/kairos](https://github.com/collardeau/kairos) | Cycle.js weather aggregration app | 10 |
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 9 |
-| [TylorS/cycle-more](https://github.com/TylorS/cycle-more) | Cycle.js port to Most.js | 9 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 9 |
+| [TylorS/cycle-more](https://github.com/TylorS/cycle-more) | Cycle.js port to Most.js | 9 |
 | [cyclejs/base](https://github.com/cyclejs/base) | Base infrastructure for a generic run() function for Cycle.js | 9 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 9 |
 | [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 8 |
@@ -81,8 +81,8 @@ What are the most popular libraries for Cycle.js?
 | [Cmdv/cycle-universal-boilerplate](https://github.com/Cmdv/cycle-universal-boilerplate) | Cycle Boilerplate | 4 |
 | [r7kamura/cycle-history-driver](https://github.com/r7kamura/cycle-history-driver) | A Cycle.js Driver to manage the browser history. | 4 |
 | [secobarbital/cycle-pushstate-driver](https://github.com/secobarbital/cycle-pushstate-driver) | A Cycle.js driver for the History API | 4 |
-| [Widdershin/cycle-music-sequencer](https://github.com/Widdershin/cycle-music-sequencer) | An easy way to make melodies in your browser, powered by Cycle.js and Tone.js | 4 |
 | [TylorS/cycle-more-snabbdom](https://github.com/TylorS/cycle-more-snabbdom) | Snabbdom driver for Cycle-More | 4 |
+| [Widdershin/cycle-music-sequencer](https://github.com/Widdershin/cycle-music-sequencer) | An easy way to make melodies in your browser, powered by Cycle.js and Tone.js | 4 |
 | [omgmog/cycle-meta-theme-color](https://github.com/omgmog/cycle-meta-theme-color) |  | 4 |
 | [MarcCloud/magic-cart](https://github.com/MarcCloud/magic-cart) | Cycle JS sample shopping cart. | 4 |
 | [bcoop713/cycrylic](https://github.com/bcoop713/cycrylic) | Simple paint webapp build with cycle.js | 4 |

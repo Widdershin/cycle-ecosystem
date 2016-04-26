@@ -6,13 +6,13 @@ What are the most popular libraries for Cycle.js?
 | -------- | ----------------- | ------|
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 234 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 153 |
+| [cyclejs/examples](https://github.com/cyclejs/examples) | A collection of simple Cycle.js examples | 143 |
 | [cyclejs/dom](https://github.com/cyclejs/dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 143 |
-| [cyclejs/examples](https://github.com/cyclejs/examples) | A collection of simple Cycle.js examples | 141 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 139 |
 | [cyclejs/cycle-react-native](https://github.com/cyclejs/cycle-react-native) | A Cycle.js Driver for interacting with React Native | 126 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 86 |
-| [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 83 |
-| [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 82 |
+| [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 84 |
+| [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 83 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 63 |
 | [cyclejs/history](https://github.com/cyclejs/history) | Cycle.js URL Driver based on the rackt/history library. | 58 |
 | [cyclejs/http](https://github.com/cyclejs/http) | A Cycle.js Driver for making HTTP requests | 51 |
@@ -47,8 +47,8 @@ What are the most popular libraries for Cycle.js?
 | [TylorS/cycle-director](https://github.com/TylorS/cycle-director) | Router Driver for cycle.js using director. | 15 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 15 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 15 |
+| [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 14 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) |  | 13 |
-| [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 13 |
 | [collardeau/kairos](https://github.com/collardeau/kairos) | Cycle.js weather aggregration app | 13 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 12 |
 | [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 12 |
@@ -77,25 +77,25 @@ What are the most popular libraries for Cycle.js?
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 6 |
 | [vespakoen/dwaler](https://github.com/vespakoen/dwaler) | Wander round without being commanded. ((motor)cycle) navigation and logger with an Arduino. | 6 |
 | [zsiegel/cyclejs-examples](https://github.com/zsiegel/cyclejs-examples) | A collection of CycleJS examples | 5 |
+| [salsita/scalable-frontend-with-cyclejs](https://github.com/salsita/scalable-frontend-with-cyclejs) | Scalable frontend with Cycle.js | 5 |
 | [conallor/cycle-media](https://github.com/conallor/cycle-media) |  | 5 |
 | [Wildhoney/Bi-cycle](https://github.com/Wildhoney/Bi-cycle) | Bi-cycle assists in making infinite carousels and sliders by handling the index logic for you. | 5 |
+| [cyclejs/rxjs-run](https://github.com/cyclejs/rxjs-run) | Cycle.run for RxJS v5 | 5 |
 | [bouzuya/cycle-gh-tree](https://github.com/bouzuya/cycle-gh-tree) | A GitHub issue browser in Cycle.js | 5 |
 | [whitecolor/cycle-async-driver](https://github.com/whitecolor/cycle-async-driver) | Factory for creating async request/response cycle.js drivers | 5 |
 | [cyclejs/jsonp](https://github.com/cyclejs/jsonp) | A Cycle.js Driver for making HTTP requests through JSONP | 5 |
 | [alpicola/acacia](https://github.com/alpicola/acacia) | Document manager built with Electron + Cycle.js | 5 |
+| [milankinen/tstream](https://github.com/milankinen/tstream) | Blazing fast observable implementation for TS...Cycle | 5 |
 | [rikukissa/ideas](https://github.com/rikukissa/ideas) | Giving Cycle.js and mori a spin while concepting a new application | 5 |
 | [leoasis/cycle-poc](https://github.com/leoasis/cycle-poc) | Playing with Cyclejs | 4 |
 | [danyx23/cyclejsBMI](https://github.com/danyx23/cyclejsBMI) | A reimplementation of the omniscient omniBMI in cycleJS | 4 |
-| [salsita/scalable-frontend-with-cyclejs](https://github.com/salsita/scalable-frontend-with-cyclejs) | Scalable frontend with Cycle.js | 4 |
 | [BrilliantCatapult/data-cycles](https://github.com/BrilliantCatapult/data-cycles) |  | 4 |
 | [Widdershin/cycle-canvas](https://github.com/Widdershin/cycle-canvas) | A canvas driver for Cycle.js | 4 |
 | [adicirstei/cycle-bp](https://github.com/adicirstei/cycle-bp) |  | 4 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 4 |
 | [TylorS/cycle-inferno](https://github.com/TylorS/cycle-inferno) | A work-in-progress implementation of using inferno with Cycle.js | 4 |
 | [scottcorgan/cycle-where](https://github.com/scottcorgan/cycle-where) | Cycle.js router driver with less configuration, more map(), and more fun | 4 |
-| [cyclejs/rxjs-run](https://github.com/cyclejs/rxjs-run) | Cycle.run for RxJS v5 | 4 |
 | [Cmdv/cycle-universal-boilerplate](https://github.com/Cmdv/cycle-universal-boilerplate) | Cycle Boilerplate | 4 |
-| [r7kamura/cycle-history-driver](https://github.com/r7kamura/cycle-history-driver) | A Cycle.js Driver to manage the browser history. | 4 |
 
 Auto generated by update.js by [searching Github](https://github.com/search?q=cycle+OR+cyclejs+language%3AJavaScript+created%3A>2014-11-01+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000).
 

@@ -4,10 +4,10 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 235 |
-| [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 154 |
+| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 237 |
+| [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 155 |
 | [cyclejs/examples](https://github.com/cyclejs/examples) | A collection of simple Cycle.js examples | 144 |
-| [cyclejs/dom](https://github.com/cyclejs/dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 144 |
+| [cyclejs/dom](https://github.com/cyclejs/dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 143 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 140 |
 | [cyclejs/cycle-react-native](https://github.com/cyclejs/cycle-react-native) | A Cycle.js Driver for interacting with React Native | 129 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 86 |
@@ -60,15 +60,15 @@ What are the most popular libraries for Cycle.js?
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 10 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 10 |
 | [olympum/waterrower-ble](https://github.com/olympum/waterrower-ble) | A WaterRower S4 adapter to the Bluetooth LE Cycling Power Service | 10 |
+| [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 10 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 9 |
 | [toribaric/cycle-falcor](https://github.com/toribaric/cycle-falcor) | Cycle.js driver for Netflix Falcor | 9 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 9 |
-| [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 9 |
+| [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 8 |
 | [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 8 |
 | [brucou/Cycle_HSM](https://github.com/brucou/Cycle_HSM) |  | 8 |
 | [Cmdv/cycle-natural-language-search](https://github.com/Cmdv/cycle-natural-language-search) | Cycle search bar with natural language capabilities | 8 |
 | [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) | Example web applications built with Cycle.js. | 7 |
-| [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 7 |
 | [TylorS/cycle-local-storage](https://github.com/TylorS/cycle-local-storage) | Simple local storage driver for cycle.js | 7 |
 | [whitecolor/cycle-async-driver](https://github.com/whitecolor/cycle-async-driver) | Factory for creating async request/response cycle.js drivers | 7 |
 | [xgrommx/cycle-drag-and-drop](https://github.com/xgrommx/cycle-drag-and-drop) |  | 7 |

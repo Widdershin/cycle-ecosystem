@@ -5,7 +5,7 @@ What are the most popular libraries for Cycle.js?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 263 |
-| [cyclejs/examples](https://github.com/cyclejs/examples) | A collection of simple Cycle.js examples | 173 |
+| [cyclejs/examples](https://github.com/cyclejs/examples) | A collection of simple Cycle.js examples | 174 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 161 |
 | [cyclejs/dom](https://github.com/cyclejs/dom) | The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers | 161 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 157 |
@@ -17,9 +17,9 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/history](https://github.com/cyclejs/history) | Cycle.js URL Driver based on the rackt/history library. | 61 |
 | [cyclejs/http](https://github.com/cyclejs/http) | A Cycle.js Driver for making HTTP requests | 58 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | The essential Cycling gear every Cyclist needs | 53 |
+| [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 42 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 42 |
 | [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 42 |
-| [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 41 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) |  | 40 |
 | [cyclejs/devtool](https://github.com/cyclejs/devtool) | Cycle.js DevTool for Chrome to visualize the dataflow graph | 38 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 35 |
@@ -60,8 +60,8 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 13 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 13 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 13 |
+| [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) | A Cycle.js Driver for Telegram Bot API | 12 |
 | [olympum/waterrower-ble](https://github.com/olympum/waterrower-ble) | A WaterRower S4 adapter to the Bluetooth LE Cycling Power Service | 12 |
-| [goodmind/cycle-telegram](https://github.com/goodmind/cycle-telegram) | A Cycle.js Driver for Telegram Bot API | 11 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 11 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 10 |
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 10 |
@@ -85,8 +85,8 @@ What are the most popular libraries for Cycle.js?
 | [whitecolor/cycle-mongoose](https://github.com/whitecolor/cycle-mongoose) | Mongoose.js driver for Cycle.js. | 6 |
 | [mspoulsen/cycle-spikes](https://github.com/mspoulsen/cycle-spikes) | For those of you learning how to cycle! | 6 |
 | [cyclejs/rxjs-run](https://github.com/cyclejs/rxjs-run) | Cycle.run for RxJS v5 | 6 |
-| [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 6 |
 | [bouzuya/cycle-gh-tree](https://github.com/bouzuya/cycle-gh-tree) | A GitHub issue browser in Cycle.js | 6 |
+| [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 6 |
 | [MarcCloud/magic-cart](https://github.com/MarcCloud/magic-cart) | Cycle JS sample shopping cart. | 6 |
 | [milankinen/tstream](https://github.com/milankinen/tstream) | Blazing fast observable implementation for TS...Cycle | 6 |
 | [vespakoen/dwaler](https://github.com/vespakoen/dwaler) | Wander round without being commanded. ((motor)cycle) navigation and logger with an Arduino. | 6 |

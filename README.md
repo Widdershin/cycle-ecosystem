@@ -4,11 +4,11 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) | A functional and reactive JavaScript framework for cleaner code | 5126 |
+| [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) | A functional and reactive JavaScript framework for cleaner code | 5132 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 277 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 173 |
+| [cyclejs/cycle-react-native](https://github.com/cyclejs/cycle-react-native) | A Cycle.js Driver for interacting with React Native | 167 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 167 |
-| [cyclejs/cycle-react-native](https://github.com/cyclejs/cycle-react-native) | A Cycle.js Driver for interacting with React Native | 166 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 153 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 104 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 102 |
@@ -20,14 +20,14 @@ What are the most popular libraries for Cycle.js?
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 41 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 41 |
 | [edge/cycle-blessed](https://github.com/edge/cycle-blessed) | Cycle.js applications for the terminal. | 39 |
-| [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 37 |
+| [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 38 |
 | [raquelxmoss/cycle-keys](https://github.com/raquelxmoss/cycle-keys) | A Cycle.js driver for keyboard events | 35 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 32 |
 | [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 30 |
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 29 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 28 |
-| [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 27 |
 | [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) | Media player written with Cycle.js and Electron. | 27 |
+| [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 27 |
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 26 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 25 |
 | [cyclejs/storage](https://github.com/cyclejs/storage) | A Cycle.js Driver for using localStorage and sessionStorage. | 25 |
@@ -45,8 +45,8 @@ What are the most popular libraries for Cycle.js?
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 19 |
 | [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) | Cycle driver for my favorite realtime database :) | 19 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) |  | 18 |
-| [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 18 |
 | [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 18 |
+| [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 18 |
 | [motorcyclejs/collection](https://github.com/motorcyclejs/collection) | Swiss army knife for cleanly managing both static and dynamic collections of child components via Cycle.js and Most.js | 18 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) |  | 17 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 17 |
@@ -74,30 +74,30 @@ What are the most popular libraries for Cycle.js?
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 10 |
 | [Widdershin/cycle-collections](https://github.com/Widdershin/cycle-collections) | Moved to cyclejs/collection | 9 |
 | [cyclejs-community/cycle-mouse-driver](https://github.com/cyclejs-community/cycle-mouse-driver) | Handles mouse events on the document in Cycle.js applications | 9 |
-| [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 9 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Examples using Cycle.js with cycle-snabbdom as the DOM driver. (WIP - more to come) | 9 |
+| [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 9 |
 | [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 9 |
 | [rayshih/fun-react](https://github.com/rayshih/fun-react) | Elm like js framework built on top of cycle-react. | 9 |
 | [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) | Example web applications built with Cycle.js. | 8 |
-| [brucou/Cycle_HSM](https://github.com/brucou/Cycle_HSM) |  | 8 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 8 |
-| [xgrommx/cycle-drag-and-drop](https://github.com/xgrommx/cycle-drag-and-drop) |  | 8 |
+| [brucou/Cycle_HSM](https://github.com/brucou/Cycle_HSM) |  | 8 |
 | [Cmdv/cycle-natural-language-search](https://github.com/Cmdv/cycle-natural-language-search) | Cycle search bar with natural language capabilities | 8 |
+| [xgrommx/cycle-drag-and-drop](https://github.com/xgrommx/cycle-drag-and-drop) |  | 8 |
 | [staltz/cleanjs-example](https://github.com/staltz/cleanjs-example) | Example of Cycle.js app passing the eslint-config-cleanjs lint | 8 |
 | [class-ideas/cyclejs-hangman](https://github.com/class-ideas/cyclejs-hangman) | :fishing_pole_and_fish: Hangman game built with Cycle.js | 7 |
 | [Paqmind/memory-game](https://github.com/Paqmind/memory-game) | Memory game implemented in CycleJS | 7 |
 | [cyclejs-community/built-with-cycle](https://github.com/cyclejs-community/built-with-cycle) | A website to showcase the cool projects built with Cycle.js | 7 |
 | [cyclejs-community/cycle-ui-kit](https://github.com/cyclejs-community/cycle-ui-kit) | A set of components for use in Cycle.js apps | 7 |
 | [alpicola/acacia](https://github.com/alpicola/acacia) | Document manager built with Electron + Cycle.js | 7 |
+| [vespakoen/dwaler](https://github.com/vespakoen/dwaler) | Wander round without being commanded. ((motor)cycle) navigation and logger with an Arduino. | 7 |
 | [zsiegel/cyclejs-examples](https://github.com/zsiegel/cyclejs-examples) | A collection of CycleJS examples | 6 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 6 |
-| [mspoulsen/cycle-spikes](https://github.com/mspoulsen/cycle-spikes) | For those of you learning how to cycle! | 6 |
 | [whitecolor/cycle-express](https://github.com/whitecolor/cycle-express) | Express.js driver for cycle.js | 6 |
 | [whitecolor/cycle-convert](https://github.com/whitecolor/cycle-convert) | :last_quarter_moon: Convert cycle.js dataflows like a boss. | 6 |
+| [mspoulsen/cycle-spikes](https://github.com/mspoulsen/cycle-spikes) | For those of you learning how to cycle! | 6 |
 | [bouzuya/cycle-gh-tree](https://github.com/bouzuya/cycle-gh-tree) | A GitHub issue browser in Cycle.js | 6 |
 | [jevakallio/cycle-react-native-example](https://github.com/jevakallio/cycle-react-native-example) | Sample application for using Cycle.js with React Native (CycleConf 2016) | 6 |
 | [MarcCloud/magic-cart](https://github.com/MarcCloud/magic-cart) | Cycle JS sample shopping cart. | 6 |
-| [milankinen/tstream](https://github.com/milankinen/tstream) | Blazing fast observable implementation for TS...Cycle | 6 |
 
 Auto generated by update.js by [searching Github](https://github.com/search?q=cycle+OR+cyclejs+language%3AJavaScript+created%3A>2014-11-01+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000).
 

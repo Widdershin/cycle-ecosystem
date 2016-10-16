@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) | A functional and reactive JavaScript framework for cleaner code | 5319 |
+| [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) | A functional and reactive JavaScript framework for cleaner code | 5324 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 283 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 176 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 173 |
@@ -69,9 +69,10 @@ What are the most popular libraries for Cycle.js?
 | [whitecolor/cycle-mongoose](https://github.com/whitecolor/cycle-mongoose) | Mongoose.js driver for Cycle.js. | 11 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 11 |
 | [cyclejs/recycle](https://github.com/cyclejs/recycle) | cycle-restart built from the ground up for xstream | 11 |
-| [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 11 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 11 |
+| [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 11 |
 | [toribaric/cycle-falcor](https://github.com/toribaric/cycle-falcor) | Cycle.js driver for Netflix Falcor | 10 |
+| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 10 |
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 10 |
 | [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 10 |
 | [Widdershin/cycle-collections](https://github.com/Widdershin/cycle-collections) | Moved to cyclejs/collection | 9 |
@@ -90,7 +91,6 @@ What are the most popular libraries for Cycle.js?
 | [chromakode/bicyclejs-talk](https://github.com/chromakode/bicyclejs-talk) | 🚲 A talk about Web Bluetooth and cyclejs @ jsconf.is | 7 |
 | [cyclejs-community/built-with-cycle](https://github.com/cyclejs-community/built-with-cycle) | A website to showcase the cool projects built with Cycle.js | 7 |
 | [cyclejs-community/cycle-ui-kit](https://github.com/cyclejs-community/cycle-ui-kit) | A set of components for use in Cycle.js apps | 7 |
-| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 7 |
 | [alpicola/acacia](https://github.com/alpicola/acacia) | Document manager built with Electron + Cycle.js | 7 |
 | [cyclejs-community/boids](https://github.com/cyclejs-community/boids) | Boids in Cycle.js (bird flocking simulator) | 7 |
 | [vespakoen/dwaler](https://github.com/vespakoen/dwaler) | Wander round without being commanded. ((motor)cycle) navigation and logger with an Arduino. | 7 |

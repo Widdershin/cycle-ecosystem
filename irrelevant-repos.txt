@@ -6,3 +6,4 @@ nervgh/recursive-iterator
 RGBz/cyclet
 Widdershin/cycle-ecosystem
 andrewcourtice/plug.js
+olympum/waterrower-ble

@@ -13,7 +13,7 @@ What are the most popular libraries for Cycle.js?
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 148 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 112 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 111 |
-| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 95 |
+| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 96 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 93 |
 | [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 71 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | The essential Cycling gear every Cyclist needs | 70 |
@@ -55,11 +55,11 @@ What are the most popular libraries for Cycle.js?
 | [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 19 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) | null | 18 |
+| [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 18 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 18 |
 | [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 18 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 17 |
 | [atomrc/cyclejs-auth0](https://github.com/atomrc/cyclejs-auth0) | Everything you need to start playing with Auth0 on your Cyclejs app | 17 |
-| [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 17 |
 | [cyclejs/recycle](https://github.com/cyclejs/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 17 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 16 |

@@ -42,8 +42,8 @@ What are the most popular libraries for Cycle.js?
 | [whitecolor/cycle-async-driver](https://github.com/whitecolor/cycle-async-driver) | Factory for creating async request/response cycle.js drivers | 24 |
 | [june07/NIM](https://github.com/june07/NIM) | NIM (Node Inspection Monitor) streamlines your Node.js development cycle when using Chrome DevTools Inspector. | 24 |
 | [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) | Utility for testing applications based on CycleJS framework. | 23 |
-| [cyclejs-community/cyclejs-community](https://github.com/cyclejs-community/cyclejs-community) | Cycle.js Community | 22 |
 | [laszlokorte/tams-tools](https://github.com/laszlokorte/tams-tools) | A set of tools for teaching and learning computer science built with cycle.js | 22 |
+| [cyclejs-community/cyclejs-community](https://github.com/cyclejs-community/cyclejs-community) | Cycle.js Community | 22 |
 | [motorcyclejs/collection](https://github.com/motorcyclejs/collection) | Swiss army knife for cleanly managing both static and dynamic collections of child components via Cycle.js and Most.js | 22 |
 | [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) | Cycle driver for my favorite realtime database :) | 21 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 21 |
@@ -52,12 +52,12 @@ What are the most popular libraries for Cycle.js?
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 19 |
 | [milankinen/culli](https://github.com/milankinen/culli) | Cycle Utility Libraries for clean, well-structured and concise code | 19 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 19 |
+| [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 19 |
 | [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 19 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) | null | 18 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 18 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 18 |
-| [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 18 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 17 |
 | [atomrc/cyclejs-auth0](https://github.com/atomrc/cyclejs-auth0) | Everything you need to start playing with Auth0 on your Cyclejs app | 17 |
 | [cyclejs/recycle](https://github.com/cyclejs/recycle) | cycle-restart built from the ground up for xstream | 17 |

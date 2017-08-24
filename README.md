@@ -4,12 +4,12 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 573 |
+| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 574 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 336 |
 | [cyclejs/react-native](https://github.com/cyclejs/react-native) | A Cycle.js Driver for interacting with React Native | 217 |
-| [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 214 |
+| [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 215 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 205 |
-| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 197 |
+| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 196 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 192 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 146 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 118 |
@@ -44,8 +44,8 @@ What are the most popular libraries for Cycle.js?
 | [eschwartz/cycle-pong](https://github.com/eschwartz/cycle-pong) | Implementation of Pong video game using Cycle.js | 23 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) | null | 22 |
 | [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) | Utility for testing applications based on CycleJS framework. | 22 |
-| [cyclejs-community/cyclejs-community](https://github.com/cyclejs-community/cyclejs-community) | Cycle.js Community | 22 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 22 |
+| [cyclejs-community/cyclejs-community](https://github.com/cyclejs-community/cyclejs-community) | Cycle.js Community | 21 |
 | [milankinen/culli](https://github.com/milankinen/culli) | Cycle Utility Libraries for clean, well-structured and concise code | 21 |
 | [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) | Cycle driver for my favorite realtime database :) | 21 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 21 |

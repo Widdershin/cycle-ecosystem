@@ -5,13 +5,13 @@ What are the most popular libraries for Cycle.js?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 585 |
-| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 337 |
-| [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 217 |
+| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 338 |
+| [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 218 |
 | [cyclejs/react-native](https://github.com/cyclejs/react-native) | A Cycle.js Driver for interacting with React Native | 217 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 205 |
-| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 202 |
+| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 204 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 193 |
-| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 153 |
+| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 154 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 119 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 118 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 99 |
@@ -21,8 +21,8 @@ What are the most popular libraries for Cycle.js?
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 62 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 60 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 53 |
+| [june07/Node.js-inspector-Manager-NiM-](https://github.com/june07/Node.js-inspector-Manager-NiM-) | NIM (Node Inspection Monitor) streamlines your Node.js development cycle when using Chrome DevTools Inspector. | 51 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 50 |
-| [june07/Node.js-inspector-Manager-NiM-](https://github.com/june07/Node.js-inspector-Manager-NiM-) | NIM (Node Inspection Monitor) streamlines your Node.js development cycle when using Chrome DevTools Inspector. | 50 |
 | [edge/cycle-blessed](https://github.com/edge/cycle-blessed) | Cycle.js applications for the terminal. | 47 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 46 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 41 |

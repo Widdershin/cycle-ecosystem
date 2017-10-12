@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 597 |
+| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 598 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 342 |
 | [cyclejs/react-native](https://github.com/cyclejs/react-native) | A Cycle.js Driver for interacting with React Native | 219 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 211 |
@@ -20,7 +20,7 @@ What are the most popular libraries for Cycle.js?
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 64 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 62 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 55 |
-| [june07/Node.js-inspector-Manager-NiM-](https://github.com/june07/Node.js-inspector-Manager-NiM-) | NIM (Node Inspection Monitor) streamlines your Node.js development cycle when using Chrome DevTools Inspector. | 53 |
+| [june07/Node.js-inspector-Manager-NiM-](https://github.com/june07/Node.js-inspector-Manager-NiM-) | NIM (Node Inspection Monitor) streamlines your Node.js development cycle when using Chrome DevTools Inspector. | 54 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 50 |
 | [edge/cycle-blessed](https://github.com/edge/cycle-blessed) | Cycle.js applications for the terminal. | 47 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 46 |
@@ -51,8 +51,8 @@ What are the most popular libraries for Cycle.js?
 | [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) | Cycle driver for my favorite realtime database :) | 21 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 21 |
 | [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 21 |
-| [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 21 |
 | [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 21 |
+| [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 21 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 21 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 20 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 20 |
@@ -63,13 +63,13 @@ What are the most popular libraries for Cycle.js?
 | [JuniperChicago/cycle-gun](https://github.com/JuniperChicago/cycle-gun) | A cycle.js driver wrapping gun.js storage | 18 |
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |
 | [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 17 |
+| [sreedhar7/ember-app-scheduler](https://github.com/sreedhar7/ember-app-scheduler) | Ember addon to schedule work at different phases of app life cycle | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 16 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 16 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 16 |
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
-| [sreedhar7/ember-app-scheduler](https://github.com/sreedhar7/ember-app-scheduler) | Ember addon to schedule work at different phases of app life cycle | 14 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 13 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 13 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Cycle.js Component Examples with Routing & Transitions! | 12 |
@@ -86,9 +86,9 @@ What are the most popular libraries for Cycle.js?
 | [whitecolor/cycle-mongoose](https://github.com/whitecolor/cycle-mongoose) | Mongoose.js driver for Cycle.js. | 11 |
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 11 |
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 11 |
+| [class-ideas/cyclejs-hangman](https://github.com/class-ideas/cyclejs-hangman) | :fishing_pole_and_fish: Hangman game built with Cycle.js | 10 |
 | [cyclejs-community/cycle-mouse-driver](https://github.com/cyclejs-community/cycle-mouse-driver) | Handles mouse events on the document in Cycle.js applications | 10 |
 | [Widdershin/cycle-collections](https://github.com/Widdershin/cycle-collections) | Moved to cyclejs/collection | 9 |
-| [class-ideas/cyclejs-hangman](https://github.com/class-ideas/cyclejs-hangman) | :fishing_pole_and_fish: Hangman game built with Cycle.js | 9 |
 | [erykpiast/cyclejs-examples](https://github.com/erykpiast/cyclejs-examples) | Example web applications built with Cycle.js. | 9 |
 | [cyclejs-community/built-with-cycle](https://github.com/cyclejs-community/built-with-cycle) | A website to showcase the cool projects built with Cycle.js | 9 |
 | [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 9 |

@@ -10,7 +10,7 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 218 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 206 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 195 |
-| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 169 |
+| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 170 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 121 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 119 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 103 |
@@ -77,13 +77,13 @@ What are the most popular libraries for Cycle.js?
 | [enten/cyclejs-calendar](https://github.com/enten/cyclejs-calendar) | Calendar component for Cycle.js | 12 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 12 |
+| [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 12 |
 | [fiatjaf/cycle-graphql-driver](https://github.com/fiatjaf/cycle-graphql-driver) | A simple, Apollo-based, GraphQL driver to be used with Cycle's most-run | 12 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 12 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 12 |
 | [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 12 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 12 |
 | [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 11 |
-| [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 11 |
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 11 |
 | [whitecolor/cycle-mongoose](https://github.com/whitecolor/cycle-mongoose) | Mongoose.js driver for Cycle.js. | 11 |
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 11 |

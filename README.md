@@ -4,22 +4,22 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 645 |
+| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 647 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 354 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 222 |
 | [cyclejs/react-native](https://github.com/cyclejs/react-native) | A Cycle.js Driver for interacting with React Native | 221 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 209 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 195 |
-| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 187 |
+| [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 188 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 124 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 120 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 102 |
 | [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 94 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | The essential Cycling gear every Cyclist needs | 81 |
+| [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 77 |
 | [june07/NiM](https://github.com/june07/NiM) | NIM (Node Inspection Monitor) streamlines your Node.js development cycle when using Chrome DevTools Inspector. | 76 |
-| [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 76 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 67 |
-| [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 65 |
+| [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 66 |
 | [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 64 |
 | [ivan-kleshnin/unredux](https://github.com/ivan-kleshnin/unredux) | Framework-less architecture for interactive apps | 63 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 55 |
@@ -64,8 +64,8 @@ What are the most popular libraries for Cycle.js?
 | [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [rayshih/fun-react](https://github.com/rayshih/fun-react) | Elm like js framework built on top of cycle-react. | 19 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
+| [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 18 |
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |
-| [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 17 |
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
@@ -77,8 +77,8 @@ What are the most popular libraries for Cycle.js?
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 14 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 14 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Cycle.js Component Examples with Routing & Transitions! | 13 |
-| [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 13 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 13 |
+| [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 13 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 13 |
 | [enten/cyclejs-calendar](https://github.com/enten/cyclejs-calendar) | Calendar component for Cycle.js | 12 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |

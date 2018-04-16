@@ -29,8 +29,8 @@ What are the most popular libraries for Cycle.js?
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 41 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 39 |
 | [raquelxmoss/cycle-keys](https://github.com/raquelxmoss/cycle-keys) | A Cycle.js driver for keyboard events | 34 |
+| [ember-app-scheduler/ember-app-scheduler](https://github.com/ember-app-scheduler/ember-app-scheduler) | Ember addon to schedule work at different phases of app life cycle | 33 |
 | [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 33 |
-| [ember-app-scheduler/ember-app-scheduler](https://github.com/ember-app-scheduler/ember-app-scheduler) | Ember addon to schedule work at different phases of app life cycle | 32 |
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 32 |
 | [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 31 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 31 |

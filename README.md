@@ -19,8 +19,8 @@ What are the most popular libraries for Cycle.js?
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 98 |
 | [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 95 |
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 92 |
+| [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 82 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | The essential Cycling gear every Cyclist needs | 82 |
-| [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 81 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 72 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 56 |
 | [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 54 |
@@ -37,8 +37,8 @@ What are the most popular libraries for Cycle.js?
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 30 |
 | [whitecolor/cycle-hmr](https://github.com/whitecolor/cycle-hmr) | :fire: Hot module replacement for Cycle.js. | 30 |
 | [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) | Media player written with Cycle.js and Electron. | 29 |
-| [cyclejs-community/xstream-boilerplate](https://github.com/cyclejs-community/xstream-boilerplate) | DEPRECATED! use create-cycle-app instead | 28 |
 | [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
+| [cyclejs-community/xstream-boilerplate](https://github.com/cyclejs-community/xstream-boilerplate) | DEPRECATED! use create-cycle-app instead | 28 |
 | [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 28 |
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 27 |
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 26 |

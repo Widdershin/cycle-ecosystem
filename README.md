@@ -37,8 +37,8 @@ What are the most popular libraries for Cycle.js?
 | [whitecolor/cycle-hmr](https://github.com/whitecolor/cycle-hmr) | :fire: Hot module replacement for Cycle.js. | 30 |
 | [EDITD/react-text-loop](https://github.com/EDITD/react-text-loop) | Create an animated loop of a list of text for your headings | 30 |
 | [edge/electron-cycle-media](https://github.com/edge/electron-cycle-media) | Media player written with Cycle.js and Electron. | 29 |
-| [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
 | [cyclejs-community/xstream-boilerplate](https://github.com/cyclejs-community/xstream-boilerplate) | DEPRECATED! use create-cycle-app instead | 28 |
+| [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 27 |
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 27 |
 | [laszlokorte/tams-tools](https://github.com/laszlokorte/tams-tools) | A set of tools for teaching and learning computer science built with cycle.js | 25 |

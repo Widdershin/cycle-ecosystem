@@ -8,7 +8,7 @@ What are the most popular libraries for Cycle.js?
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 363 |
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 289 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 225 |
-| [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 215 |
+| [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 216 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 213 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 212 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 195 |
@@ -58,13 +58,13 @@ What are the most popular libraries for Cycle.js?
 | [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 21 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 21 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 21 |
+| [UpperCod/Atomico](https://github.com/UpperCod/Atomico) | Atomico is a small experimental library, it has a very small implementation of virtual-dom, it uses Jsx, its life cycle is based on CustomElements and CustomEvents. | 21 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 20 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 20 |
 | [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 20 |
 | [rayshih/fun-react](https://github.com/rayshih/fun-react) | Elm like js framework built on top of cycle-react. | 19 |
 | [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 19 |
-| [UpperCod/Atomico](https://github.com/UpperCod/Atomico) | Atomico is a small experimental library, it has a very small implementation of virtual-dom, it uses Jsx, its life cycle is based on CustomElements and CustomEvents. | 19 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 18 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 18 |

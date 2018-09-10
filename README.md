@@ -62,8 +62,8 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 20 |
 | [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 20 |
 | [rayshih/fun-react](https://github.com/rayshih/fun-react) | Elm like js framework built on top of cycle-react. | 19 |
-| [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 19 |
+| [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 19 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 18 |
@@ -78,11 +78,11 @@ What are the most popular libraries for Cycle.js?
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 14 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Cycle.js Component Examples with Routing & Transitions! | 14 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
+| [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 14 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 13 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 13 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 13 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 13 |
-| [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 13 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 13 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |
 | [2p2r/velobs_web](https://github.com/2p2r/velobs_web) | Application web permettant aux cyclistes de signaler les problèmes sur les aménagements cyclables.  | 12 |

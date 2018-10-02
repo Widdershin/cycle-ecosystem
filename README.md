@@ -5,7 +5,7 @@ What are the most popular libraries for Cycle.js?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 703 |
-| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 365 |
+| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 366 |
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 293 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 225 |
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 217 |
@@ -62,8 +62,8 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 20 |
 | [phadej/graafi](https://github.com/phadej/graafi) | cycle.js expirement | 20 |
 | [rayshih/fun-react](https://github.com/rayshih/fun-react) | Elm like js framework built on top of cycle-react. | 19 |
-| [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 19 |
+| [justinwoo/cycle-elm-etch-sketch](https://github.com/justinwoo/cycle-elm-etch-sketch) | Little demo using Elm from Cycle.js as a driver | 19 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 18 |
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |

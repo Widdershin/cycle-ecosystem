@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 706 |
+| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 707 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 366 |
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | Fractal state management for Cycle.js apps | 298 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 224 |
@@ -80,6 +80,7 @@ What are the most popular libraries for Cycle.js?
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
 | [streamich/react-micro-lifecycles](https://github.com/streamich/react-micro-lifecycles) | Life-cycles for React DOM elements | 14 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 13 |
+| [fiatjaf/cycle-graphql-driver](https://github.com/fiatjaf/cycle-graphql-driver) | A simple, Apollo-based, GraphQL driver to be used with Cycle's most-run | 13 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 13 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 13 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 13 |
@@ -87,7 +88,6 @@ What are the most popular libraries for Cycle.js?
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 13 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |
 | [2p2r/velobs_web](https://github.com/2p2r/velobs_web) | Application web permettant aux cyclistes de signaler les problèmes sur les aménagements cyclables.  | 12 |
-| [fiatjaf/cycle-graphql-driver](https://github.com/fiatjaf/cycle-graphql-driver) | A simple, Apollo-based, GraphQL driver to be used with Cycle's most-run | 12 |
 | [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 12 |
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 12 |
 | [CyclicMaterials/cycle-hammer-driver](https://github.com/CyclicMaterials/cycle-hammer-driver) | A Hammer driver for Cycle.js | 12 |

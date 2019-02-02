@@ -12,7 +12,7 @@ What are the most popular libraries for Cycle.js?
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 221 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 216 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 196 |
-| [braposo/react-text-loop](https://github.com/braposo/react-text-loop) | Animate words in your headings | 156 |
+| [braposo/react-text-loop](https://github.com/braposo/react-text-loop) | Animate words in your headings | 154 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 128 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 124 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 113 |
@@ -56,10 +56,10 @@ What are the most popular libraries for Cycle.js?
 | [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) | Utility for testing applications based on CycleJS framework. | 22 |
 | [eschwartz/cycle-pong](https://github.com/eschwartz/cycle-pong) | Implementation of Pong video game using Cycle.js | 22 |
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 22 |
+| [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 22 |
 | [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 22 |
 | [motorcyclejs/collection](https://github.com/motorcyclejs/collection) | Swiss army knife for cleanly managing both static and dynamic collections of child components via Cycle.js and Most.js | 22 |
 | [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) | Cycle driver for my favorite realtime database :) | 21 |
-| [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 21 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 21 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 20 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 20 |
@@ -70,19 +70,19 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 17 |
+| [streamich/react-micro-lifecycles](https://github.com/streamich/react-micro-lifecycles) | Life-cycles for React DOM elements | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 16 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 16 |
-| [streamich/react-micro-lifecycles](https://github.com/streamich/react-micro-lifecycles) | Life-cycles for React DOM elements | 16 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 15 |
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Cycle.js Component Examples with Routing & Transitions! | 14 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 14 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
+| [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 14 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 14 |
 | [fiatjaf/cycle-graphql-driver](https://github.com/fiatjaf/cycle-graphql-driver) | A simple, Apollo-based, GraphQL driver to be used with Cycle's most-run | 13 |
-| [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 13 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 13 |
 | [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 13 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |

@@ -88,8 +88,8 @@ What are the most popular libraries for Cycle.js?
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |
 | [cyclejs-community/cycle-idb](https://github.com/cyclejs-community/cycle-idb) | A cycle driver for IndexedDB. | 12 |
 | [2p2r/velobs_web](https://github.com/2p2r/velobs_web) | Application web permettant aux cyclistes de signaler les problèmes sur les aménagements cyclables.  | 12 |
-| [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 12 |
 | [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 12 |
+| [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 12 |
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 12 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 12 |
 | [class-ideas/cyclejs-hangman](https://github.com/class-ideas/cyclejs-hangman) | :fishing_pole_and_fish: Hangman game built with Cycle.js | 11 |

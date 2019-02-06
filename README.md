@@ -17,14 +17,14 @@ What are the most popular libraries for Cycle.js?
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 124 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 113 |
 | [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 103 |
+| [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 100 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 99 |
-| [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 99 |
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 94 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | The essential Cycling gear every Cyclist needs | 84 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 73 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 56 |
 | [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 55 |
-| [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 53 |
+| [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 52 |
 | [edge/cycle-blessed](https://github.com/edge/cycle-blessed) | Cycle.js applications for the terminal. | 46 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 45 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 42 |
@@ -47,10 +47,10 @@ What are the most popular libraries for Cycle.js?
 | [JuniperChicago/cycle-gun](https://github.com/JuniperChicago/cycle-gun) | A cycle.js driver wrapping gun.js storage | 24 |
 | [milankinen/culli](https://github.com/milankinen/culli) | Cycle Utility Libraries for clean, well-structured and concise code | 24 |
 | [whitecolor/cycle-async-driver](https://github.com/whitecolor/cycle-async-driver) | Factory for creating async request/response cycle.js drivers | 24 |
-| [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 24 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 24 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 24 |
 | [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 24 |
+| [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 23 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 23 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) | null | 22 |
 | [atomrc/cyclejs-auth0](https://github.com/atomrc/cyclejs-auth0) | Everything you need to start playing with Auth0 on your Cyclejs app | 22 |
@@ -88,8 +88,8 @@ What are the most popular libraries for Cycle.js?
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 12 |
 | [cyclejs-community/cycle-idb](https://github.com/cyclejs-community/cycle-idb) | A cycle driver for IndexedDB. | 12 |
 | [2p2r/velobs_web](https://github.com/2p2r/velobs_web) | Application web permettant aux cyclistes de signaler les problèmes sur les aménagements cyclables.  | 12 |
-| [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 12 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 12 |
+| [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 12 |
 | [survivejs/cycle-starter](https://github.com/survivejs/cycle-starter) | Starting point for Cycle.js projects (MIT) | 12 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 12 |
 | [class-ideas/cyclejs-hangman](https://github.com/class-ideas/cyclejs-hangman) | :fishing_pole_and_fish: Hangman game built with Cycle.js | 11 |

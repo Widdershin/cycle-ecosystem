@@ -12,7 +12,7 @@ What are the most popular libraries for Cycle.js?
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 221 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 216 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 196 |
-| [braposo/react-text-loop](https://github.com/braposo/react-text-loop) | Animate words in your headings | 155 |
+| [braposo/react-text-loop](https://github.com/braposo/react-text-loop) | Animate words in your headings | 156 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 128 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 124 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 113 |
@@ -20,7 +20,7 @@ What are the most popular libraries for Cycle.js?
 | [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 100 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 99 |
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 94 |
-| [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React, styled-components, Leaflet and d3. | 90 |
+| [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React, styled-components, Leaflet and d3. | 93 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | The essential Cycling gear every Cyclist needs | 84 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 74 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 56 |

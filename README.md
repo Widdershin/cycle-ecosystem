@@ -9,7 +9,7 @@ What are the most popular libraries for Cycle.js?
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | MIGRATED! This was transfered to https://cycle.js.org/api/state.html | 295 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 229 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 227 |
-| [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 220 |
+| [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 221 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 216 |
 | [edge/cyc](https://github.com/edge/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 197 |
 | [braposo/react-text-loop](https://github.com/braposo/react-text-loop) | Animate words in your headings | 157 |

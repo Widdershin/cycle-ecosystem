@@ -76,13 +76,13 @@ What are the most popular libraries for Cycle.js?
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 16 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 16 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 15 |
+| [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 15 |
 | [2p2r/velobs_web](https://github.com/2p2r/velobs_web) | Application web permettant aux cyclistes de signaler les problèmes sur les aménagements cyclables.  | 15 |
 | [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 15 |
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 15 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Cycle.js Component Examples with Routing & Transitions! | 14 |
-| [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 14 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 14 |
 | [fiatjaf/cycle-graphql-driver](https://github.com/fiatjaf/cycle-graphql-driver) | A simple, Apollo-based, GraphQL driver to be used with Cycle's most-run | 13 |

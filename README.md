@@ -5,7 +5,7 @@ What are the most popular libraries for Cycle.js?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 735 |
-| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 368 |
+| [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 369 |
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | MIGRATED! This was transfered to https://cycle.js.org/api/state.html | 292 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 234 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 231 |
@@ -25,7 +25,7 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 56 |
 | [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 55 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 52 |
-| [ember-app-scheduler/ember-app-scheduler](https://github.com/ember-app-scheduler/ember-app-scheduler) | An Ember addon to schedule work at different phases of app life cycle | 47 |
+| [ember-app-scheduler/ember-app-scheduler](https://github.com/ember-app-scheduler/ember-app-scheduler) | An Ember addon to schedule work at different phases of app life cycle | 48 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 45 |
 | [alkhe/cycle-blessed](https://github.com/alkhe/cycle-blessed) | Cycle.js applications for the terminal. | 45 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 42 |

@@ -10,8 +10,8 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 234 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 232 |
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 229 |
-| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 214 |
-| [alkhe/cyc](https://github.com/alkhe/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 200 |
+| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 215 |
+| [alkhe/cyc](https://github.com/alkhe/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 201 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 131 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 123 |
 | [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React (hooks), styled-components, Leaflet and d3. | 121 |

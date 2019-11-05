@@ -76,11 +76,11 @@ What are the most popular libraries for Cycle.js?
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 17 |
 | [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 17 |
 | [streamich/react-micro-lifecycles](https://github.com/streamich/react-micro-lifecycles) | Life-cycles for React DOM elements | 17 |
+| [RaySaii/dive](https://github.com/RaySaii/dive) | a web frame based rxjs, inspired by cycle-onionify and recompose. | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 16 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 16 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 16 |
-| [RaySaii/dive](https://github.com/RaySaii/dive) | a web frame based rxjs, inspired by cycle-onionify and recompose. | 16 |
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
 | [daniel-dx/nice-hooks](https://github.com/daniel-dx/nice-hooks) | 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable) | 15 |
@@ -89,12 +89,12 @@ What are the most popular libraries for Cycle.js?
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 14 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 13 |
 | [handshake-org/bcuckoo](https://github.com/handshake-org/bcuckoo) | Cuckoo Cycle in pure javascript | 13 |
+| [zschro/GekkoSchaffTrendCycle](https://github.com/zschro/GekkoSchaffTrendCycle) | SchaffTrendCycle Indicator for Gekko | 13 |
 | [fiatjaf/cycle-graphql-driver](https://github.com/fiatjaf/cycle-graphql-driver) | A simple, Apollo-based, GraphQL driver to be used with Cycle's most-run | 13 |
 | [ande765a/cycle-redux](https://github.com/ande765a/cycle-redux) | Unofficial bindings for Cycle.js | 13 |
 | [futurice/op-hackathon-templates](https://github.com/futurice/op-hackathon-templates) | App templates demonstrating OP's API usage with Cycle.js | 13 |
 | [cyclejs-community/cycle-idb](https://github.com/cyclejs-community/cycle-idb) | A cycle driver for IndexedDB. | 12 |
 | [justinwoo/housing-costs-maps](https://github.com/justinwoo/housing-costs-maps) | demo showing random housing costs from around the world (through a variety of channels: expedia hotels, same day check-ins, airbnbs, student dormitories).  uses cyclejs drivers to drive the charts | 12 |
-| [zschro/GekkoSchaffTrendCycle](https://github.com/zschro/GekkoSchaffTrendCycle) | SchaffTrendCycle Indicator for Gekko | 12 |
 | [foxdonut/cycle-todolist](https://github.com/foxdonut/cycle-todolist) | Cycle.js todolist example | 12 |
 | [bloodyKnuckles/cycle-web-worker](https://github.com/bloodyKnuckles/cycle-web-worker) | Cycle.js Web Worker | 12 |
 | [cyclejs-community/boids](https://github.com/cyclejs-community/boids) | Boids in Cycle.js (bird flocking simulator) | 12 |

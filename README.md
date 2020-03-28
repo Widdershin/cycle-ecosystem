@@ -9,7 +9,7 @@ What are the most popular libraries for Cycle.js?
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | MIGRATED! This was transfered to https://cycle.js.org/api/state.html | 290 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 237 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 235 |
-| [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 233 |
+| [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 234 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 215 |
 | [alkhe/cyc](https://github.com/alkhe/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 199 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 130 |
@@ -23,7 +23,7 @@ What are the most popular libraries for Cycle.js?
 | [milankinen/stanga](https://github.com/milankinen/stanga) | [NOT MAINTAINED] The essential Cycling gear every Cyclist needs | 84 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 76 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 59 |
-| [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 56 |
+| [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 58 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 52 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 45 |
 | [alkhe/cycle-blessed](https://github.com/alkhe/cycle-blessed) | Cycle.js applications for the terminal. | 45 |
@@ -39,8 +39,8 @@ What are the most popular libraries for Cycle.js?
 | [whitecolor/cycle-hmr](https://github.com/whitecolor/cycle-hmr) | :fire: Hot module replacement for Cycle.js. | 29 |
 | [laszlokorte/tams-tools](https://github.com/laszlokorte/tams-tools) | A set of tools for teaching and learning computer science built with cycle.js | 28 |
 | [cyclejs-community/xstream-boilerplate](https://github.com/cyclejs-community/xstream-boilerplate) | DEPRECATED! use create-cycle-app instead | 28 |
-| [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 28 |
 | [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
+| [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 28 |
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 27 |
 | [alkhe/electron-cycle-media](https://github.com/alkhe/electron-cycle-media) | Media player written with Cycle.js and Electron. | 27 |
 | [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 26 |

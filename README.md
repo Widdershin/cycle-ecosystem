@@ -42,9 +42,9 @@ What are the most popular libraries for Cycle.js?
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 28 |
 | [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 27 |
+| [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 27 |
 | [alkhe/electron-cycle-media](https://github.com/alkhe/electron-cycle-media) | Media player written with Cycle.js and Electron. | 27 |
 | [daniel-dx/nice-hooks](https://github.com/daniel-dx/nice-hooks) | 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable) | 27 |
-| [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 26 |
 | [JuniperChicago/cycle-gun](https://github.com/JuniperChicago/cycle-gun) | A cycle.js driver wrapping gun.js storage | 25 |
 | [milankinen/culli](https://github.com/milankinen/culli) | [NOT MAINTAINED] Cycle Utility Libraries for clean, well-structured and concise code | 25 |
 | [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 25 |

@@ -33,9 +33,9 @@ What are the most popular libraries for Cycle.js?
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 35 |
 | [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 34 |
 | [raquelxmoss/cycle-keys](https://github.com/raquelxmoss/cycle-keys) | A Cycle.js driver for keyboard events | 34 |
+| [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 32 |
 | [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 32 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 31 |
-| [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 31 |
 | [daniel-dx/nice-hooks](https://github.com/daniel-dx/nice-hooks) | 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable) | 30 |
 | [laszlokorte/tams-tools](https://github.com/laszlokorte/tams-tools) | A set of tools for teaching and learning computer science built with cycle.js | 29 |
 | [tmont/tarjan-graph](https://github.com/tmont/tarjan-graph) | Simple NodeJS module for detecting cycles in directed graphs | 29 |

@@ -4,7 +4,7 @@ What are the most popular libraries for Cycle.js?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 745 |
+| [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 746 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 372 |
 | [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | MIGRATED! This was transfered to https://cycle.js.org/api/state.html | 289 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 238 |
@@ -17,7 +17,7 @@ What are the most popular libraries for Cycle.js?
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 122 |
 | [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React (hooks), styled-components, Leaflet and d3. | 122 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 117 |
-| [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 107 |
+| [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 108 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 100 |
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 93 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | [NOT MAINTAINED] The essential Cycling gear every Cyclist needs | 84 |
@@ -29,9 +29,9 @@ What are the most popular libraries for Cycle.js?
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 45 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 42 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 39 |
+| [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 35 |
 | [cyclejs-community/one-fits-all](https://github.com/cyclejs-community/one-fits-all) | The one-fits-all flavor for create-cycle-app | 35 |
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 35 |
-| [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 34 |
 | [raquelxmoss/cycle-keys](https://github.com/raquelxmoss/cycle-keys) | A Cycle.js driver for keyboard events | 34 |
 | [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 33 |
 | [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 32 |
@@ -55,12 +55,12 @@ What are the most popular libraries for Cycle.js?
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 24 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 24 |
 | [atomrc/cyclejs-auth0](https://github.com/atomrc/cyclejs-auth0) | Everything you need to start playing with Auth0 on your Cyclejs app | 23 |
+| [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 23 |
 | [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 23 |
 | [motorcyclejs/collection](https://github.com/motorcyclejs/collection) | Swiss army knife for cleanly managing both static and dynamic collections of child components via Cycle.js and Most.js | 23 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) | null | 22 |
 | [erykpiast/cyclejs-mock](https://github.com/erykpiast/cyclejs-mock) | Utility for testing applications based on CycleJS framework. | 22 |
 | [eschwartz/cycle-pong](https://github.com/eschwartz/cycle-pong) | Implementation of Pong video game using Cycle.js | 22 |
-| [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 22 |
 | [dralletje/cycle-firebase](https://github.com/dralletje/cycle-firebase) | Cycle driver for my favorite realtime database :) | 21 |
 | [cyclejs/cycle-notification-driver](https://github.com/cyclejs/cycle-notification-driver) | null | 21 |
 | [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) | Utility for CycleJS framework for reducing boilerplate when creating groups of streams | 20 |

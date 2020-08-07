@@ -6,7 +6,7 @@ What are the most popular libraries for Cycle.js?
 | -------- | ----------------- | ------|
 | [cyclejs-community/redux-cycles](https://github.com/cyclejs-community/redux-cycles) | Bring functional reactive programming to Redux using Cycle.js | 749 |
 | [pH200/cycle-react](https://github.com/pH200/cycle-react) | Rx functional interface to Facebook's React | 371 |
-| [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | MIGRATED! This was transfered to https://cycle.js.org/api/state.html | 288 |
+| [staltz/cycle-onionify](https://github.com/staltz/cycle-onionify) | MIGRATED! This was transfered to https://cycle.js.org/api/state.html | 287 |
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 238 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 238 |
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 232 |
@@ -21,8 +21,8 @@ What are the most popular libraries for Cycle.js?
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 98 |
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 93 |
 | [milankinen/stanga](https://github.com/milankinen/stanga) | [NOT MAINTAINED] The essential Cycling gear every Cyclist needs | 83 |
+| [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 78 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 75 |
-| [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 75 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 59 |
 | [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 58 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 52 |
@@ -79,13 +79,13 @@ What are the most popular libraries for Cycle.js?
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [RaySaii/dive](https://github.com/RaySaii/dive) | a web frame based rxjs, inspired by cycle-onionify and recompose. | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
-| [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 16 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 16 |
+| [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 16 |
+| [raae/pow-app](https://github.com/raae/pow-app) | Take charge of your menstrual cycle with POW! menstrual tracker app. | 16 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 15 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 15 |
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
-| [raae/pow-app](https://github.com/raae/pow-app) | Take charge of your menstrual cycle with POW! menstrual tracker app. | 15 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 14 |
 | [zschro/GekkoSchaffTrendCycle](https://github.com/zschro/GekkoSchaffTrendCycle) | SchaffTrendCycle Indicator for Gekko | 14 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |

@@ -17,7 +17,7 @@ What are the most popular libraries for Cycle.js?
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 122 |
 | [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React (hooks), styled-components, Leaflet and d3. | 122 |
 | [developit/preact-cycle](https://github.com/developit/preact-cycle) | :recycle: Minimal functional Virtual DOM rendering using Preact :bike: | 118 |
-| [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 111 |
+| [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 113 |
 | [cyclejs-community/cyclic-router](https://github.com/cyclejs-community/cyclic-router) | Router Driver built for Cycle.js | 108 |
 | [Cmdv/cycle-webpack-boilerplate](https://github.com/Cmdv/cycle-webpack-boilerplate) | cycle webpack babel boilerplate | 98 |
 | [davidmarkclements/react-functional](https://github.com/davidmarkclements/react-functional) | Add life cycle methods to stateless functional components, without the class noise | 93 |
@@ -74,11 +74,11 @@ What are the most popular libraries for Cycle.js?
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 18 |
 | [streamich/react-micro-lifecycles](https://github.com/streamich/react-micro-lifecycles) | Life-cycles for React DOM elements | 18 |
+| [RaySaii/dive](https://github.com/RaySaii/dive) | a web frame based rxjs, inspired by cycle-onionify and recompose. | 18 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 17 |
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 17 |
-| [RaySaii/dive](https://github.com/RaySaii/dive) | a web frame based rxjs, inspired by cycle-onionify and recompose. | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 16 |
 | [whitecolor/babel-plugin-cycle-circular](https://github.com/whitecolor/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 16 |

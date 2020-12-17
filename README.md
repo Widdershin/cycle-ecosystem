@@ -10,7 +10,7 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs-community/create-cycle-app](https://github.com/cyclejs-community/create-cycle-app) | Create Cycle.js apps with no build configuration. | 238 |
 | [cyclejs/todomvc-cycle](https://github.com/cyclejs/todomvc-cycle) | TodoMVC example implemented in Cycle.js | 238 |
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 233 |
-| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 215 |
+| [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 216 |
 | [alkhe/cyc](https://github.com/alkhe/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 197 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 128 |
 | [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 126 |
@@ -29,7 +29,7 @@ What are the most popular libraries for Cycle.js?
 | [alkhe/cycle-blessed](https://github.com/alkhe/cycle-blessed) | Cycle.js applications for the terminal. | 47 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 45 |
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 42 |
-| [daniel-dx/nice-hooks](https://github.com/daniel-dx/nice-hooks) | 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable) | 41 |
+| [daniel-dx/nice-hooks](https://github.com/daniel-dx/nice-hooks) | 🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable) | 42 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 39 |
 | [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 38 |
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 36 |
@@ -41,8 +41,8 @@ What are the most popular libraries for Cycle.js?
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 30 |
 | [whitecolor/cycle-hmr](https://github.com/whitecolor/cycle-hmr) | :fire: Hot module replacement for Cycle.js. | 30 |
 | [laszlokorte/tams-tools](https://github.com/laszlokorte/tams-tools) | A set of tools for teaching and learning computer science built with cycle.js | 29 |
-| [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
 | [Widdershin/cycle-hot-reloading-example](https://github.com/Widdershin/cycle-hot-reloading-example) | A Cycle.js starter project with hot reloading using browserify-hmr | 28 |
+| [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
 | [alkhe/electron-cycle-media](https://github.com/alkhe/electron-cycle-media) | Media player written with Cycle.js and Electron. | 28 |
 | [cyclejs-community/xstream-boilerplate](https://github.com/cyclejs-community/xstream-boilerplate) | DEPRECATED! use create-cycle-app instead | 27 |
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 27 |
@@ -53,11 +53,11 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 25 |
 | [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 25 |
 | [brucou/cycle-state-machine-demo](https://github.com/brucou/cycle-state-machine-demo) | Non-trivial, real use case demo of a hierarchical state machine library with cyclejs | 24 |
+| [raae/pow-app](https://github.com/raae/pow-app) | Take charge of your menstrual cycle with POW! — the privacy-first menstrual cycle journal | 24 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 24 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 24 |
 | [atomrc/cyclejs-auth0](https://github.com/atomrc/cyclejs-auth0) | Everything you need to start playing with Auth0 on your Cyclejs app | 23 |
 | [whitecolor/cycle-async-driver](https://github.com/whitecolor/cycle-async-driver) | Factory for creating async request/response cycle.js drivers | 23 |
-| [raae/pow-app](https://github.com/raae/pow-app) | Take charge of your menstrual cycle with POW! — the privacy-first menstrual cycle journal | 23 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 23 |
 | [motorcyclejs/collection](https://github.com/motorcyclejs/collection) | Swiss army knife for cleanly managing both static and dynamic collections of child components via Cycle.js and Most.js | 23 |
 | [pusher-community/cyclejs-realtime-chat](https://github.com/pusher-community/cyclejs-realtime-chat) | null | 22 |

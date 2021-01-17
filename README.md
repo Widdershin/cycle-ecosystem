@@ -48,11 +48,11 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/cycle-fetch-driver](https://github.com/cyclejs/cycle-fetch-driver) | Cycle.js for the Fetch API | 27 |
 | [drzax/the-list-cycle](https://github.com/drzax/the-list-cycle) | An experiment with how to use Twitter | 27 |
 | [JuniperChicago/cycle-gun](https://github.com/JuniperChicago/cycle-gun) | A cycle.js driver wrapping gun.js storage | 26 |
+| [brucou/cycle-state-machine-demo](https://github.com/brucou/cycle-state-machine-demo) | Non-trivial, real use case demo of a hierarchical state machine library with cyclejs | 25 |
 | [milankinen/culli](https://github.com/milankinen/culli) | [NOT MAINTAINED] Cycle Utility Libraries for clean, well-structured and concise code | 25 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 25 |
 | [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 25 |
 | [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 25 |
-| [brucou/cycle-state-machine-demo](https://github.com/brucou/cycle-state-machine-demo) | Non-trivial, real use case demo of a hierarchical state machine library with cyclejs | 24 |
 | [raae/pow-app](https://github.com/raae/pow-app) | Take charge of your menstrual cycle with POW! — the privacy-first menstrual cycle journal | 24 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 24 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 24 |

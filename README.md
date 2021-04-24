@@ -76,11 +76,11 @@ What are the most popular libraries for Cycle.js?
 | [RaySaii/dive](https://github.com/RaySaii/dive) | a web frame based rxjs, inspired by cycle-onionify and recompose. | 19 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
 | [benji6/cycle-audio-graph](https://github.com/benji6/cycle-audio-graph) | Audio graph driver for Cycle.js based on virtual-audio-graph | 18 |
+| [mpetroff/color-cycle-picker](https://github.com/mpetroff/color-cycle-picker) | Color cycle picker with CVD simulation | 18 |
 | [streamich/react-micro-lifecycles](https://github.com/streamich/react-micro-lifecycles) | Life-cycles for React DOM elements | 18 |
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [diegoserranor/productive-cycles-webext](https://github.com/diegoserranor/productive-cycles-webext) | Simple-yet-complete Pomodoro timer for Firefox and Google Chrome. | 17 |
-| [mpetroff/color-cycle-picker](https://github.com/mpetroff/color-cycle-picker) | Color cycle picker with CVD simulation | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 16 |
 | [olympum/ble-cycling-power](https://github.com/olympum/ble-cycling-power) | A Virtual Bluetooth 4.0 Cycling Power Server | 16 |

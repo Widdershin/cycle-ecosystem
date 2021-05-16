@@ -32,7 +32,7 @@ What are the most popular libraries for Cycle.js?
 | [TylorS/cycle-snabbdom](https://github.com/TylorS/cycle-snabbdom) | Alternative DOM driver utilizing the snabbdom library | 42 |
 | [sahilchaddha/homebridge-magichome-platform](https://github.com/sahilchaddha/homebridge-magichome-platform) | Homebridge Plugin for MagicHome LED Strips with Preset Scene Automation Support (Cycle Color/Fade/Strobe) | 40 |
 | [killercup/cycle-webpack-starter](https://github.com/killercup/cycle-webpack-starter) | Boilerplate for building ES6 web apps using Cycle.js | 39 |
-| [eugenioclrc/binance-crypto-triangular-arbitrage](https://github.com/eugenioclrc/binance-crypto-triangular-arbitrage) | A profitable triangular arbitrage cycles finder. | 37 |
+| [eugenioclrc/binance-crypto-triangular-arbitrage](https://github.com/eugenioclrc/binance-crypto-triangular-arbitrage) | A profitable triangular arbitrage cycles finder. | 38 |
 | [SilentCicero/throw-down](https://github.com/SilentCicero/throw-down) | life cycle hooks for pure DOM elements | 37 |
 | [cyclejs-community/one-fits-all](https://github.com/cyclejs-community/one-fits-all) | The one-fits-all flavor for create-cycle-app | 35 |
 | [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 34 |
@@ -91,12 +91,12 @@ What are the most popular libraries for Cycle.js?
 | [mjyc/head-pose-estimation-demo](https://github.com/mjyc/head-pose-estimation-demo) | A head pose estimation Cycle.js demo app using opencv.js and tensorflow.js' posenet  | 15 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 15 |
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
+| [17teen/Discord-Rich-Presence-Party-Mode](https://github.com/17teen/Discord-Rich-Presence-Party-Mode) | Discord Rich Presence Tool. Party Mode | Cycle Mode integrated. The first to do it. | 15 |
 | [wclr/babel-plugin-cycle-circular](https://github.com/wclr/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
 | [ronakjain2012/node-boilerplate](https://github.com/ronakjain2012/node-boilerplate) | Node JS Boilerplate project with ExpressJS + MongoDB + PUG. Permissions, Auth, Routing, API Cache, Dynamic Pagination, 3rd-party error handler APIs, loggers, 3 level deployment cycles. REST APIs with best practices from top devs and projects on GitHub. | 15 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 14 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
-| [17teen/Discord-Rich-Presence-Party-Mode](https://github.com/17teen/Discord-Rich-Presence-Party-Mode) | Discord Rich Presence Tool. Party Mode | Cycle Mode integrated. The first to do it. | 14 |
 | [lucasdiedrich/gnome-display-switcher](https://github.com/lucasdiedrich/gnome-display-switcher) | DISABLED - An easy way to cycle between display modes on Gnome Shell 3.12+: https://extensions.gnome.org/extension/1030/display-switcher/ | 14 |
 | [SkaterDad/cycle-snabbdom-examples](https://github.com/SkaterDad/cycle-snabbdom-examples) | Cycle.js Component Examples with Routing & Transitions! | 13 |
 

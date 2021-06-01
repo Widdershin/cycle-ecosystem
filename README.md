@@ -12,7 +12,7 @@ What are the most popular libraries for Cycle.js?
 | [sindresorhus/cycled](https://github.com/sindresorhus/cycled) | Cycle through the items of an array | 237 |
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 219 |
 | [alkhe/cyc](https://github.com/alkhe/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 198 |
-| [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 177 |
+| [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 178 |
 | [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 142 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 126 |
 | [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React (hooks), styled-components, Leaflet and d3. | 124 |
@@ -89,6 +89,7 @@ What are the most popular libraries for Cycle.js?
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 16 |
 | [paulfp/social-media-counter](https://github.com/paulfp/social-media-counter) | A Raspberry Pi-based social media follower counter, cycling through Facebook, Twitter, Instagram and YouTube accounts with follower counts displayed on a colour LED display. | 16 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 15 |
+| [DasSauerkraut/calendar-weather](https://github.com/DasSauerkraut/calendar-weather) | A module for FoundryVTT that adds a calendar widget with weather, moons cycles, and a customizable calendar. | 15 |
 | [zschro/GekkoSchaffTrendCycle](https://github.com/zschro/GekkoSchaffTrendCycle) | SchaffTrendCycle Indicator for Gekko | 15 |
 | [mjyc/head-pose-estimation-demo](https://github.com/mjyc/head-pose-estimation-demo) | A head pose estimation Cycle.js demo app using opencv.js and tensorflow.js' posenet  | 15 |
 | [SteveVitali/cryptocurrency-arbitrage-experiment](https://github.com/SteveVitali/cryptocurrency-arbitrage-experiment) | Detect arbitrage opportunities in crypto-currency exchanges using Bellman-Ford negative-weight cycle detection | 15 |
@@ -96,7 +97,6 @@ What are the most popular libraries for Cycle.js?
 | [wclr/babel-plugin-cycle-circular](https://github.com/wclr/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 14 |
-| [DasSauerkraut/calendar-weather](https://github.com/DasSauerkraut/calendar-weather) | A module for FoundryVTT that adds a calendar widget with weather, moons cycles, and a customizable calendar. | 14 |
 | [r7kamura/cycle-fetcher-driver](https://github.com/r7kamura/cycle-fetcher-driver) | A Cycle.js Driver for making HTTP requests using fetcher. | 14 |
 | [lucasdiedrich/gnome-display-switcher](https://github.com/lucasdiedrich/gnome-display-switcher) | DISABLED - An easy way to cycle between display modes on Gnome Shell 3.12+: https://extensions.gnome.org/extension/1030/display-switcher/ | 14 |
 

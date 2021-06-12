@@ -13,7 +13,7 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs/cycle-time-travel](https://github.com/cyclejs/cycle-time-travel) | A time traveling debugger for Cycle.js | 219 |
 | [alkhe/cyc](https://github.com/alkhe/cyc) | Scaffold an isomorphic Cycle.js app in seconds. | 198 |
 | [ptx2/gymnasticon](https://github.com/ptx2/gymnasticon) | Make obsolete and/or proprietary exercise bikes work with popular cycling training apps like Zwift, TrainerRoad, Rouvy and more. | 179 |
-| [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 143 |
+| [brannondorsey/distributed-password-cracking](https://github.com/brannondorsey/distributed-password-cracking) | Borrow CPU cycles from visitor's web browsers to crack MD5 password hashes 😲 | 144 |
 | [ivan-kleshnin/cyclejs-examples](https://github.com/ivan-kleshnin/cyclejs-examples) | CycleJS examples | 126 |
 | [latviancoder/my-cycling-routes](https://github.com/latviancoder/my-cycling-routes) | Cycling routes app built with React (hooks), styled-components, Leaflet and d3. | 125 |
 | [Widdershin/cycle-restart](https://github.com/Widdershin/cycle-restart) | Swap out the code in your Cycle.js apps on the fly! | 123 |
@@ -25,7 +25,7 @@ What are the most popular libraries for Cycle.js?
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 75 |
 | [cyclejs/collection](https://github.com/cyclejs/collection) | An easier way to do collections in Cycle.js | 60 |
 | [raquelxmoss/cycle-color-picker](https://github.com/raquelxmoss/cycle-color-picker) | A color picker component for Cycle.js | 58 |
-| [eugenioclrc/binance-crypto-triangular-arbitrage](https://github.com/eugenioclrc/binance-crypto-triangular-arbitrage) | A profitable triangular arbitrage cycles finder. | 56 |
+| [eugenioclrc/binance-crypto-triangular-arbitrage](https://github.com/eugenioclrc/binance-crypto-triangular-arbitrage) | A profitable triangular arbitrage cycles finder. | 57 |
 | [andreloureiro/cyclejs-starter](https://github.com/andreloureiro/cyclejs-starter) | Cycle.js starter template with ES6 and live reload. | 52 |
 | [alkhe/cycle-blessed](https://github.com/alkhe/cycle-blessed) | Cycle.js applications for the terminal. | 47 |
 | [sdebaun/sparks-cyclejs](https://github.com/sdebaun/sparks-cyclejs) | null | 45 |
@@ -83,10 +83,10 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs-community/create-cycle-app-flavors](https://github.com/cyclejs-community/create-cycle-app-flavors) | null | 17 |
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [diegoserranor/productive-cycles-webext](https://github.com/diegoserranor/productive-cycles-webext) | Simple-yet-complete Pomodoro timer for Firefox and Google Chrome. | 17 |
+| [17teen/Discord-Rich-Presence-Party-Mode](https://github.com/17teen/Discord-Rich-Presence-Party-Mode) | Discord Rich Presence Tool. Party Mode | Cycle Mode integrated. The first to do it. | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 16 |
 | [DasSauerkraut/calendar-weather](https://github.com/DasSauerkraut/calendar-weather) | A module for FoundryVTT that adds a calendar widget with weather, moons cycles, and a customizable calendar. | 16 |
-| [17teen/Discord-Rich-Presence-Party-Mode](https://github.com/17teen/Discord-Rich-Presence-Party-Mode) | Discord Rich Presence Tool. Party Mode | Cycle Mode integrated. The first to do it. | 16 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 16 |
 | [paulfp/social-media-counter](https://github.com/paulfp/social-media-counter) | A Raspberry Pi-based social media follower counter, cycling through Facebook, Twitter, Instagram and YouTube accounts with follower counts displayed on a colour LED display. | 16 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 15 |

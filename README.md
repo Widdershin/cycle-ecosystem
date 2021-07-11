@@ -53,11 +53,12 @@ What are the most popular libraries for Cycle.js?
 | [milankinen/culli](https://github.com/milankinen/culli) | [NOT MAINTAINED] Cycle Utility Libraries for clean, well-structured and concise code | 25 |
 | [raae/pow-app](https://github.com/raae/pow-app) | Take charge of your menstrual cycle with POW! — the privacy-first menstrual cycle journal | 25 |
 | [Bloomca/equalizer](https://github.com/Bloomca/equalizer) | SoundCloud music player with equalizer | 25 |
-| [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 25 |
 | [andreloureiro/pomocycle](https://github.com/andreloureiro/pomocycle) | A simple Pomodoro timer built with Cycle.js and RxJS. | 25 |
+| [cyclejs-community/README](https://github.com/cyclejs-community/README) | Cycle.js Community README, code of conduct and introductions. | 25 |
 | [atomrc/cyclejs-auth0](https://github.com/atomrc/cyclejs-auth0) | Everything you need to start playing with Auth0 on your Cyclejs app | 24 |
 | [Widdershin/tricycle](https://github.com/Widdershin/tricycle) | Try Cycle.js in your browser, no setup required. | 24 |
 | [domagojk/cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver) | cycle.js grid driver | 24 |
+| [Psychedelic/plug](https://github.com/Psychedelic/plug) | Plug is a browser extension for users of DFINITY's Internet Computer that allows you to access your ICP, Cycles, and other tokens as well as log into IC apps with one click. | 24 |
 | [wclr/cycle-async-driver](https://github.com/wclr/cycle-async-driver) | Factory for creating async request/response cycle.js drivers | 23 |
 | [apoco/cycle-electron-driver](https://github.com/apoco/cycle-electron-driver) | Cycle.js drivers for electron apps | 23 |
 | [jamiebuilds/graph-sequencer](https://github.com/jamiebuilds/graph-sequencer) | Sort items in a graph using a topological sort while resolving cycles with priority groups | 23 |
@@ -84,7 +85,6 @@ What are the most popular libraries for Cycle.js?
 | [lucamezzalira/jsday-cycle-js](https://github.com/lucamezzalira/jsday-cycle-js) | Reactive Live London Tube trains status | 17 |
 | [17teen/Discord-Rich-Presence-Party-Mode](https://github.com/17teen/Discord-Rich-Presence-Party-Mode) | Discord Rich Presence Tool. Party Mode | Cycle Mode integrated. The first to do it. | 17 |
 | [Widdershin/recycle](https://github.com/Widdershin/recycle) | cycle-restart built from the ground up for xstream | 17 |
-| [Psychedelic/plug](https://github.com/Psychedelic/plug) | Plug is a browser extension for users of DFINITY's Internet Computer that allows you to access your ICP, Cycles, and other tokens as well as log into IC apps with one click. | 17 |
 | [ivan-kleshnin/tetris-game](https://github.com/ivan-kleshnin/tetris-game) | Tetris game implemented in CycleJS | 16 |
 | [DasSauerkraut/calendar-weather](https://github.com/DasSauerkraut/calendar-weather) | A module for FoundryVTT that adds a calendar widget with weather, moons cycles, and a customizable calendar. | 16 |
 | [wearereasonablepeople/warped-components](https://github.com/wearereasonablepeople/warped-components) | :cyclone: An opinionated way to build frontend applications | 16 |
@@ -96,9 +96,9 @@ What are the most popular libraries for Cycle.js?
 | [collardeau/kairos-cycle](https://github.com/collardeau/kairos-cycle) | Cycle.js weather aggregration app | 15 |
 | [wclr/babel-plugin-cycle-circular](https://github.com/wclr/babel-plugin-cycle-circular) | Babel plugin allowing to have circular dependencies in cycle.js functions. | 15 |
 | [kibin/cycle-example-who-to-follow](https://github.com/kibin/cycle-example-who-to-follow) | Cycle implementation of twitter who to follow box | 15 |
+| [MTry/homebridge-smart-irrigation](https://github.com/MTry/homebridge-smart-irrigation) | Turn any electrical irrigation valve into a smart-valve.. or run your pumps on a smart schedule based on your climate! This homebridge plugin exposes a multi-zone irrigation sprinkler dummy control system to Apple's HomeKit. Although a dummy, it brings smarts of an evapotranspiration based climate and plant adaptive irrigation controller with the use of OpenWeatherMap API. The plugin can optionally email you, and/or send you push notifications through Pushover or Pushcut, with the watering schedule it has calculated, or when a watering run is completed, along with the next 7-day weather forecast. Added option to expose system controls to Homekit allowing a user to enable/disable irrigation, rechecks, push and email notifications from within the Home App. Associated WaterLevel Characteristic shows the % of watering cycle remaining. | 15 |
 | [rkrupinski/cyclejs-animated-localstorage](https://github.com/rkrupinski/cyclejs-animated-localstorage) | A Cycle.js driver for animating (srsly) localStorage. | 14 |
 | [dpren/WebGL-Tron](https://github.com/dpren/WebGL-Tron) | 3D Tron light-cycle clone in WebGL | 14 |
-| [dvmarinoff/Flux](https://github.com/dvmarinoff/Flux) | Indoor Cycling App for Structured Training | 14 |
 
 Auto generated by update.js by [searching Github](https://github.com/search?q=cycle+OR+cyclejs+language%3AJavaScript+created%3A>2014-11-01+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000).
 

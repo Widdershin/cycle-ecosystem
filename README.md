@@ -39,8 +39,8 @@ What are the most popular libraries for Cycle.js?
 | [cyclejs-community/cycle-canvas](https://github.com/cyclejs-community/cycle-canvas) | A canvas driver for Cycle.js | 34 |
 | [raquelxmoss/cycle-keys](https://github.com/raquelxmoss/cycle-keys) | A Cycle.js driver for keyboard events | 33 |
 | [Widdershin/cycle-animation-driver](https://github.com/Widdershin/cycle-animation-driver) | A Cycle driver for requestAnimationFrame | 32 |
+| [Psychedelic/plug](https://github.com/Psychedelic/plug) | Plug is a browser extension for users of DFINITY's Internet Computer that allows you to access your ICP, Cycles, and other tokens as well as log into IC apps with one click. | 32 |
 | [wclr/cycle-hmr](https://github.com/wclr/cycle-hmr) | :fire: Hot module replacement for Cycle.js. | 31 |
-| [Psychedelic/plug](https://github.com/Psychedelic/plug) | Plug is a browser extension for users of DFINITY's Internet Computer that allows you to access your ICP, Cycles, and other tokens as well as log into IC apps with one click. | 31 |
 | [axefrog/cycle-router5](https://github.com/axefrog/cycle-router5) | A router driver for Cycle.js, wrapping the router5 library | 30 |
 | [laszlokorte/tams-tools](https://github.com/laszlokorte/tams-tools) | A set of tools for teaching and learning computer science built with cycle.js | 29 |
 | [cgeorg/cycle-socket.io](https://github.com/cgeorg/cycle-socket.io) | A Cycle driver for Socket.IO clients | 28 |
